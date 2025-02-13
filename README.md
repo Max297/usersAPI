@@ -1,5 +1,5 @@
 <style>
-        body {
+        .mainBody {
             font-family: Arial, sans-serif;
             line-height: 1.6;
             margin: 20px;
@@ -31,7 +31,7 @@
             overflow-x: auto;
         }
     </style>
-<body>
+<div class="mainBody">
     <h1>Описание api функций</h1>
 
     <div class="endpoint">
@@ -80,4 +80,4 @@
         <p>Скрипт, для создания таблицы, находится в файле createTable.sql</p>
     </div>
     
-</body>
+</div>
